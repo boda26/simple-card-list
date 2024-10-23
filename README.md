@@ -1,11 +1,20 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# Simple Card List
+Backend
+1. install dependencies
+```
+npm install
+```
+2. start server (runs on 5001)
+```
+node index.js
+```
+Frontend
+1. install dependencies
+```angular2html
+npm install
+```
+2. start react (runs on 3000)
+```angular2html
+npm start
+```
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
-
-HAPPY CODING! </br>
-A Round Entertainment
